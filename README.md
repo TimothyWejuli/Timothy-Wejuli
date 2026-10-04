@@ -1,6 +1,6 @@
 ## Hi, I'm Timothy Wejuli, an aspiring System Administrator and Cloud Engineer
 
-I deploy and document infrastructure in Microsoft Azure and AWS, with a focus on identity management, access control, and automation-driven operations.
+I build hands-on labs in Windows Server administration, Active Directory Domain Services (AD DS), ServiceNow ITSM workflows, and PowerShell automation..
 
 ## My Projects
 🖥️ Active Directory Domain Lab (Azure)
