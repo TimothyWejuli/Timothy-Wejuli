@@ -1,4 +1,4 @@
-## Hi, I'm Timothy Wejulis, an aspiring System Administrator and Cloud Engineer
+## Hi, I'm Timothy Wejuli, an aspiring System Administrator and Cloud Engineer
 
 I deploy and document infrastructure in Microsoft Azure and AWS, with a focus on identity management, access control, and automation-driven operations.
 
